@@ -1,0 +1,45 @@
+body {
+	background: darkblue;
+	font-family: "Arial";
+	text-align: left;
+	margin-left: 15%;
+	margin-right: 15%;
+}
+#sonnet {
+	text-align: center;
+	list-style-type: none;
+  font-style: italic;
+}
+#nav {
+	background: lightblue;
+	float: left;
+	width: 200px;
+}
+
+h2 {
+  margin-left: 5%;
+  margin-right: 5%;
+  text-align: center;
+}
+
+h1 {
+  margin-left: 5%;
+  margin-right: 5%;
+  text-align: center;
+}
+
+#content {
+	background-color: cornflowerblue;
+	margin-left: 200px;
+}
+
+p {
+  margin-left: 5%;
+  margin-right: 5%;
+  text-align: center;
+}
+
+
+.copyright {
+	text-align: center;
+}
