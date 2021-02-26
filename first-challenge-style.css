@@ -1,0 +1,40 @@
+body {
+	background: wheat;
+	border: 10px dashed black;
+    margin-right: 25%;
+    margin-left: 25%;
+}
+
+h1 {
+	font-family: "Arial", sans-serif;
+	font-style: italic;
+	font-size: 50px;
+	text-align: center;
+	border-bottom: 10px dashed black;
+    margin: 0;
+}
+
+ul li {
+	text-align: center;
+	list-style-type: none;
+    font-style: italic;
+}
+
+li:first-letter {
+	font-size: 200%;
+}
+
+li, p {
+	font-family: sans-serif;
+	text-align: left;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.copyright {
+	text-align: center;
+}
+
+#wrap {
+    background-color: beige;
+}
