@@ -1,0 +1,48 @@
+#text {
+    color: white;
+    text-transform: uppercase;
+    
+
+}
+.text{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    position: relative;
+    top: 20px;
+    font-family: "Nunito Sans";
+}
+*{
+    background-color: #544F53;
+}
+.cities{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    position: relative;
+    top: 40px;
+    color:white;
+    font-family: "Nunito Sans";
+    font-weight: bold;
+}
+
+#cornertext{
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    background-color: #AB1F83;
+    top: -16px;
+
+}
+.cornertext{
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    background-color: #AB1F83;
+    top: -36px;
+
+}
+#newyorkimg{
+    position: relative;
+    top: -20px;
+}
